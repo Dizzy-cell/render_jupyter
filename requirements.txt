@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+requests
+beautifulsoup4
+aiohttp
+asyncio
+lxml
+playwright
